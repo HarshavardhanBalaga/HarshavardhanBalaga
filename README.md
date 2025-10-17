@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshavardhanbalaga&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanbalaga&layout=compact&theme=radical" width="48%" height="180" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanbalaga&layout=compact&theme=radical" width="48%" height="170" />
 </p>
 
 
